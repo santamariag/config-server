@@ -5,4 +5,5 @@ eureka:
   instance:
     hostname: localhost
     
-message: Ciao
+message:
+  text: Ciao
