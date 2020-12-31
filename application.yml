@@ -6,4 +6,4 @@ eureka:
     hostname: localhost
     
 message:
-  text: Ciao
+  text: Bau
